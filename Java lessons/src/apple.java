@@ -17,7 +17,7 @@ public class apple {
 	public int getSize()
 	{
 		return this.size;
-		
+		//lol
 	}
 	
 }
